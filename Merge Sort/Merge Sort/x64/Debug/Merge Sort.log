@@ -1,0 +1,12 @@
+﻿  Merge Sort.cpp
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,14): error C2131: expression did not evaluate to a constant
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,14): message : failure was caused by a read of a variable outside its lifetime
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,14): message : see usage of 'nl'
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,24): error C2131: expression did not evaluate to a constant
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,24): message : failure was caused by a read of a variable outside its lifetime
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(19,24): message : see usage of 'nr'
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(22,17): error C3863: array type 'int [nl]' is not assignable
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(25,17): error C3863: array type 'int [nr]' is not assignable
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(71,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(78,21): error C2660: 'mergeSort': function does not take 2 arguments
+D:\visual projects\Merge Sort\Merge Sort\Merge Sort.cpp(50,6): message : see declaration of 'mergeSort'
