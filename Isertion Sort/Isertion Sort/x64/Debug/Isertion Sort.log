@@ -1,0 +1,3 @@
+﻿  Isertion Sort.cpp
+D:\visual projects\Isertion Sort\Isertion Sort\Isertion Sort.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Isertion Sort.vcxproj -> D:\visual projects\Isertion Sort\x64\Debug\Isertion Sort.exe

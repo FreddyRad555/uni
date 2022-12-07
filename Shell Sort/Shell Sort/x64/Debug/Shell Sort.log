@@ -1,0 +1,3 @@
+﻿  Shell Sort.cpp
+D:\visual projects\Shell Sort\Shell Sort\Shell Sort.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shell Sort.vcxproj -> D:\visual projects\Shell Sort\x64\Debug\Shell Sort.exe

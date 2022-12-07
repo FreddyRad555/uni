@@ -1,0 +1,3 @@
+﻿  Selection Sort.cpp
+D:\visual projects\Selection Sort\Selection Sort\Selection Sort.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Selection Sort.vcxproj -> D:\visual projects\Selection Sort\x64\Debug\Selection Sort.exe
